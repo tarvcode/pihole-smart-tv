@@ -1,0 +1,51 @@
+# https://lazyadmin.nl/home-network/how-to-block-ads-on-your-smart-tv/
+# 2022-02-19
+
+# Samsung
+samsungads.com
+events.samsungads.com
+config.samsungads.com
+static.doubleclick.net
+tvx.adgrx.com 
+samsungotn.net
+samsungrm.net
+
+# Samsung extras
+gpm.samsungqbe.com
+log-config.samsungacr.com
+samsungacr.com
+samsungcloudsolution.com
+samsungcloudsolution.net
+
+# LG
+ngfts.lge.com
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
+lgad.cjpowercast.com
+edgesuite.net
+ca.ad.lgsmartad.com
+ca.info.lgsmartad.com
+
+# LG extras
+ad.lgappstv.com
+smartclip.com
+smartclip.net
+smartshare.lgtvsdp.com
+us.ibs.lgappstv.com
+us.lgtvsdp.com
+us.rdx2.lgtvsdp.com
+yumenetworks.com
+aic-ngfts.lge.com
+ca.ibs.lgappstv.com
+ca.lgtvsdp.com
+ca.rdx2.lgtvsdp.com
+
+# Roku TVs
+cooper.logs.roku.com
+track.sr.roku.com
+p.ads.roku.com
+bif.sr.roku.com
+traces.sr.roku.com
+cloudservices.roku.com
+scribe.logs.roku.com
+amarillo.sb.roku.com
