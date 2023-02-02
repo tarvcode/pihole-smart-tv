@@ -1,5 +1,5 @@
 # https://lazyadmin.nl/home-network/how-to-block-ads-on-your-smart-tv/
-# 2022-02-19
+# 2023-02-02
 
 # Samsung
 samsungads.com
@@ -9,6 +9,7 @@ static.doubleclick.net
 tvx.adgrx.com 
 samsungotn.net
 samsungrm.net
+ads.samsung.com
 
 # Samsung extras
 gpm.samsungqbe.com
@@ -16,6 +17,7 @@ log-config.samsungacr.com
 samsungacr.com
 samsungcloudsolution.com
 samsungcloudsolution.net
+samsung.net
 
 # LG
 ngfts.lge.com
